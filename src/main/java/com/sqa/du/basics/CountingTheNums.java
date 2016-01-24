@@ -4,10 +4,10 @@ package com.sqa.du.basics;
 public class CountingTheNums {
 	public static void main(String[] args) {
 
-////		 Counting to 100 using FOR loop
-//		 for (int count = 0; count <= 100; count++) {
-//		 System.out.println(count);
-//		 }
+//		 Counting to 100 using FOR loop
+		 for (int count = 0; count <= 100; count++) {
+		 System.out.println(count);
+		 }
 
 		
 ////		 Counting to 100 using DO WHILE loop
@@ -24,8 +24,5 @@ public class CountingTheNums {
 //			 System.out.println(count);
 //			 count++;
 //		}
-		
-
-
 	}
 }
